@@ -1,3 +1,3 @@
 #!/bin/bash
 mkdir -p welcome/to/school
-echo "-p welcome/to/school: welcome/, welcome/to/, welcome/to/school"
+echo "welcome/, welcome/to/, welcome/to/school"
