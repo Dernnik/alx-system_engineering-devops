@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+sorted_users = sorted(user_dict.keys())
