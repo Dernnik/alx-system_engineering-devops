@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "ls_cwd_content"
-
-# Run the ls -la command and save the result to the file
-ls -la > "$filename"
-
-echo "ls -la output written to '$filename'."
+ls -l > ls_cwd_content
